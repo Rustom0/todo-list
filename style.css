@@ -96,3 +96,14 @@ ul li span{
 ul li span:hover{
     background: #0deef0;
 }
+@media screen and (max-width: 500px){
+  button{
+    width: 30%;
+    padding: 16px 0;
+  }
+  input{
+    width: 70%;
+    padding: 5px;
+  }
+    
+}
